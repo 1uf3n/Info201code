@@ -7,8 +7,10 @@
 “Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.” In the specific context of this map depicting the geographical data of Detroit, data visualization has played a crucial role in transforming complex information into visual forms, especially highlighting the locations where black children had unfortunate accidents on these streets. Data visualization helps observers intuitively grasp the distribution and concentration of these events, helps black children understand the terrain to reduce the risk of being hit by cars, and also reveals a serious social problem. The deep-rooted social issues include the unfairness of race and violence, the malpractice of the police, and the fact that the law does not safeguard the safety of black people's lives at all. The persistence of such social problems may perpetuate fear and insecurity among black communities and other minority groups, mainly due to the external stereotypes and discrimination they face. The importance of data visualization is that it can reveal the obvious differences and problems society faces. It calls for action to urge people to address these issues and strive to create a more just and equitable future for all. (Citation source: https://www.tableau.com/learn/articles/data-visualization)
 
 ## Data Viz Biography
+
 **1. Who or what institution produced the visualization? (Hint: refer to "Figure Credits")**
-2. When was it produced?
-3. Who is the audience for the visualization?
-4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?
-5. How, if at all, does the data visualization represent power or systems?
+
+**2. When was it produced?**
+**3. Who is the audience for the visualization?**
+**4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?**
+**5. How, if at all, does the data visualization represent power or systems?**
